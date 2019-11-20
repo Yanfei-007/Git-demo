@@ -1,4 +1,2 @@
-## git-demo仓库的说明
-
-hello world
+电商后台管理系统
 
